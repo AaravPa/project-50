@@ -1,0 +1,8 @@
+.Header {
+    flex-wrap: wrap;
+    justify-content: space-evenly;  
+}
+
+.Fact {
+    justify-content: space-between;  
+}
